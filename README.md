@@ -1,15 +1,3 @@
-# Random Pokemon
-
-- React JS
-- Redux
-- Bootstrap 4
-
-Demo: https://random-pokemon-reactjs.netlify.app/
-
-![Screenshot](https://i.imgur.com/pB2g3cJ.png)
-
-## Available Scripts
-
 In the project directory, you can run:
 
 ### `npm start`
